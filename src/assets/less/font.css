@@ -1,0 +1,20 @@
+@font-face{
+    font-family:'zcoolqingkehuangyouti';
+    src:url('../font/ZCOOLQingKeHuangYou-Regular.ttf')
+}
+@font-face{
+    font-family:'SourceHanSansCN';
+    src:url('../font/SourceHanSansCN-Regular.ttf');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face{
+    font-family:'SourceHanSansCN-Medium';
+    src:url('../font/SourceHanSansCN-Medium.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face{
+    font-family:'Roboto-Light';
+    src:url('../font/Roboto-Light.ttf')
+}
